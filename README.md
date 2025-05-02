@@ -22,8 +22,9 @@ It demonstrates performance optimization and advanced configuration of the Apach
 ## 📍 Web Root & Script Paths
 
 - `/var/www/html_project3/` – Main project folder
-- `/var/www/html_project3/q1/` to `/q6/` – Task-specific folders
 - `/var/www/cgi-bin/` – CGI script directory
+- `/var/www/html_project3/q4/` – PHP subnet logic
+- `/var/www/html_project3/q5/` – PHP-MySQL integration
 
 ---
 
@@ -38,20 +39,15 @@ It demonstrates performance optimization and advanced configuration of the Apach
 ## 📎 Quick Access – Key Files
 
 🔧 **Apache Configuration**
-- [`httpd.conf`](https://github.com/GuillermoPKeymole/apache-optimization-project-III/blob/main/etc/httpd/conf/httpd.conf)
-- [`ssl.conf`](https://github.com/GuillermoPKeymole/apache-optimization-project-III/blob/main/etc/httpd/conf.d/ssl.conf)
+- [`httpd.conf`](https://github.com/GuillermoPKeymole/apache-optimization-project-III/blob/main/Apache%20Optimisation_project3/etc/httpd/conf/httpd.conf)
 
-💻 **Web Project Tasks**
-- [`q1`](https://github.com/GuillermoPKeymole/apache-optimization-project-III/tree/main/var/www/html_project3/q1)
-- [`q2`](https://github.com/GuillermoPKeymole/apache-optimization-project-III/tree/main/var/www/html_project3/q2)
-- [`q3`](https://github.com/GuillermoPKeymole/apache-optimization-project-III/tree/main/var/www/html_project3/q3)
-- [`q4`](https://github.com/GuillermoPKeymole/apache-optimization-project-III/tree/main/var/www/html_project3/q4)
-  - [`index.php`](https://github.com/GuillermoPKeymole/apache-optimization-project-III/blob/main/var/www/html_project3/q4/index.php)
-- [`q5`](https://github.com/GuillermoPKeymole/apache-optimization-project-III/tree/main/var/www/html_project3/q5)
-- [`q6`](https://github.com/GuillermoPKeymole/apache-optimization-project-III/tree/main/var/www/html_project3/q6)
+💻 **Web Project Files**
+- [`q4`](https://github.com/GuillermoPKeymole/apache-optimization-project-III/tree/main/Apache%20Optimisation_project3/var/www/html_project3/q4)
+- [`q5`](https://github.com/GuillermoPKeymole/apache-optimization-project-III/tree/main/Apache%20Optimisation_project3/var/www/html_project3/q5)
+- [`master_project3.html`](https://github.com/GuillermoPKeymole/apache-optimization-project-III/blob/main/Apache%20Optimisation_project3/var/www/html_project3/master_project3.html)
 
 🐪 **CGI Script**
-- [`apache.pl`](https://github.com/GuillermoPKeymole/apache-optimization-project-III/blob/main/var/www/cgi-bin/apache.pl)
+- [`task3.cgi`](https://github.com/GuillermoPKeymole/apache-optimization-project-III/blob/main/Apache%20Optimisation_project3/var/www/cgi-bin/task3.cgi)
 
 📄 **Documents**
 - [`Project Report`](https://github.com/GuillermoPKeymole/apache-optimization-project-III/blob/main/Guillermo_PadillaKeymole_Report_P3.pdf)
